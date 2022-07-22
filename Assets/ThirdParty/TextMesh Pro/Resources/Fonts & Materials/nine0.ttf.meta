@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 861f1da25c17c1a41b219738336cc420
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nine By Five NBP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5e5fafd59e3e1f49a765f31b9da6a35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
